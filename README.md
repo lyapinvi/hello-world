@@ -1,3 +1,3 @@
 # hello-world
-Empty projecct to try out github
+Empty project to try out github;
 Making changes
